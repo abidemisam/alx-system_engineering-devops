@@ -1,1 +1,1 @@
-‘This script prints the absolute file path of this directory’
+‘This directory prints the absolute file path of this directory’
