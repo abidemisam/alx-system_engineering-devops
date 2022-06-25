@@ -1,1 +1,1 @@
-‘This repository prints the absolute file path’
+this script changes user to betty
