@@ -1,1 +1,1 @@
-last 10 files 
+first 10 lines 
