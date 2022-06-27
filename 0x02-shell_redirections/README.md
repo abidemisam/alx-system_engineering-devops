@@ -1,1 +1,1 @@
-passwd and host
+last 10 lines
