@@ -1,1 +1,1 @@
-redirection
+passwd and host
